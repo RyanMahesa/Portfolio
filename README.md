@@ -1,6 +1,6 @@
 # 🗺️ My Tech & Data Portfolio
 
-Welcome to my portfolio! Here, I document a summary of my projects across data analytics, predictive modeling, and software engineering.
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📚 Table of Contents
 * [Data Analytics & Business Intelligence](#data-analytics--business-intelligence)
