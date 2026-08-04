@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools Used | Project Description |
 | :--- | :--- | :--- | :--- |
-| 🍔 **[Restaurant Orders Analysis]((https://github.com/RyanMahesa/Restaurant-Orders-Analysis))** | Mid 2024 | Power BI, SQL | Developed an interactive executive dashboard to analyze Q1 sales performance. The project involved data cleaning, relational modeling, and DAX metric creation to identify top-performing menu items and revenue trends. |
+| 🍔 **[Restaurant Orders Analysis](https://github.com/RyanMahesa/Restaurant-Orders-Analysis)** | Mid 2024 | Power BI, SQL | Developed an interactive executive dashboard to analyze Q1 sales performance. The project involved data cleaning, relational modeling, and DAX metric creation to identify top-performing menu items and revenue trends. |
 
 ---
 
